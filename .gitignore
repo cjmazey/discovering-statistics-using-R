@@ -1,0 +1,9 @@
+/*.aux
+/*.fmt
+/*.log
+/*.pdf
+/*.tex
+/.Rhistory
+/_*
+/auto/
+/figure/
